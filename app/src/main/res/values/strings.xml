@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TechnologyAssessment</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="loading_articles">Loading Articles</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="popular_articles">Popular Articles</string>
+</resources>
